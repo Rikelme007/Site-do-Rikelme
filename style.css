@@ -4,8 +4,8 @@
 }
 
 header {
-    background-color: #7F27FF;
-    color: white;
+    background-color: #eaec65;
+    color: rgb(255, 250, 250);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -27,7 +27,7 @@ header {
 }
 
 .robotica {
-    background-image: linear-gradient(#7F27FF, #9F70FD);
+    background-image: linear-gradient(#eaec65, #e6387a);
     color: white;
     display: flex;
     justify-content: center;
